@@ -12,4 +12,4 @@ A Document Management System (DMS) streamlines the hiring process by managing, o
 # 3. System Flowchart
 ![image](https://github.com/nheelam/document-management-system/assets/64530832/b6744730-4f14-4861-8c4c-47c39a47d28c)
 ![image](https://github.com/nheelam/document-management-system/assets/64530832/9b063a22-3dee-44d2-832c-d90bfbb789bd)
-![image](https://github.com/nheelam/document-management-system/assets/64530832/3f2d4c94-20e8-45e3-81b1-159fae7585a0)
+![image](https://github.com/nheelam/document-management-system/assets/64530832/92847304-5d8b-4324-9083-4d8aa9c1f21d)
